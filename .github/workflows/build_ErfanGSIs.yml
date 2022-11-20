@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2196_A_12.0.10.4.W10.V000L1-update-full_1661128362.zip
+  ROM_NAME: OriginOS
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
